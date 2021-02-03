@@ -32,9 +32,8 @@ Din uppgift är att ta fram en enkel applikation som:
 
 ## Instruktioner
 
-- Du kan uppfylla uppgiften hur du vill; en web app, ett web-API, en mobilapp,
-  ett library, en CLI-app, eller något annat.
-- Du kan använda vilket programmeringsspråk och ramverk du vill.
+- Du kan uppfylla uppgiften med en web app, ett web-API eller både och.
+- Du kan använda JavaScript (Node/React/LWC) eller Java.
 - Din applikation behöver inte klara någon hög last. Fundera ändå på hur du
   skulle kunna anpassa den för att klara mycket högre trafik, exempelvis köras
   vid varje besök på Expressen.se.
